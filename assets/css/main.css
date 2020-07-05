@@ -123,7 +123,7 @@ html {
 }
 
 body, input, select, textarea {
-  color: rgb(134,74,167) !important;
+  color: #7bad3e !important;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   font-size: 1rem;
@@ -146,7 +146,7 @@ a:hover {
 }
 
 strong, b {
-  color: rgb(134,74,167);
+  color: #7bad3e;
   font-weight: 600;
 }
 
@@ -160,7 +160,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: rgb(134,74,167);
+  color: #7bad3e;
   font-weight: 600;
   line-height: 1.5;
   margin: 0 0 1rem 0;
@@ -1213,7 +1213,7 @@ body.is-loading #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: calc(3.5rem + 1px);
-  /* background: rgb(134,74,167); */
+  /* background: #7bad3e; */
 }
 
 #header > :first-child {
@@ -1275,13 +1275,13 @@ body.is-loading #bg:before {
   margin-bottom: 0;
   list-style: none;
   padding-left: 0;
-  border: solid 1px rgb(134,74,167);
+  border: solid 1px #7bad3e;
   border-radius: 4px;
 }
 
 #header nav ul li {
   padding-left: 0;
-  border-left: solid 1px rgb(134,74,167);
+  border-left: solid 1px #7bad3e;
 }
 
 #header nav ul li:first-child {
@@ -1316,7 +1316,7 @@ body.is-loading #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: 100%;
-  background: rgb(134,74,167);
+  background: #7bad3e;
 }
 
 #header nav.use-middle ul li.is-middle {
