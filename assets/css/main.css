@@ -218,7 +218,7 @@ h6 {
   }
 
   h2 {
-    font-size: 1.25em;
+    font-size: 0.75em;
     line-height: 1.5;
   }
 
@@ -971,6 +971,7 @@ button,
   line-height: 2.75rem;
   outline: 0;
   padding: 0 1.25rem 0 1.35rem;
+  margin-bottom: 20px;
   text-align: center;
   text-decoration: none;
   text-transform: uppercase;
