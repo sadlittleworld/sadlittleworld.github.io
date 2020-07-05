@@ -1488,7 +1488,7 @@ body.is-loading #header .content .inner {
   -ms-transform: translateY(0);
   transform: translateY(0);
   opacity: 1;
-  background-color: #2F2F2F !important;
+  background-color: #22242f !important;
 }
 
 #main article .close {
