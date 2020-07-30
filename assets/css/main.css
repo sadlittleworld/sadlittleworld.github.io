@@ -123,12 +123,12 @@ html {
 }
 
 body, input, select, textarea {
-  color: #7bad3e !important;
+  color: #82006e !important;
   font-family: "Source Sans Pro", sans-serif;
   font-weight: 300;
   font-size: 1rem;
   line-height: 1.65;
-  background-color: rgb(35, 31, 32) !important;
+  background-color: #82006e !important;
   text-decoration: none !important;
 }
 
@@ -146,7 +146,7 @@ a:hover {
 }
 
 strong, b {
-  color: #7bad3e;
+  color: #82006e;
   font-weight: 600;
 }
 
@@ -160,7 +160,7 @@ p {
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #7bad3e;
+  color: #82006e;
   font-weight: 600;
   line-height: 1.5;
   margin: 0 0 1rem 0;
@@ -1214,7 +1214,7 @@ body.is-loading #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: calc(3.5rem + 1px);
-  /* background: #7bad3e; */
+  /* background: #82006e; */
 }
 
 #header > :first-child {
@@ -1276,13 +1276,13 @@ body.is-loading #bg:before {
   margin-bottom: 0;
   list-style: none;
   padding-left: 0;
-  border: solid 1px #7bad3e;
+  border: solid 1px #82006e;
   border-radius: 4px;
 }
 
 #header nav ul li {
   padding-left: 0;
-  border-left: solid 1px #7bad3e;
+  border-left: solid 1px #82006e;
 }
 
 #header nav ul li:first-child {
@@ -1317,7 +1317,7 @@ body.is-loading #bg:before {
   left: calc(50% - 1px);
   width: 1px;
   height: 100%;
-  background: #7bad3e;
+  background: #82006e;
 }
 
 #header nav.use-middle ul li.is-middle {
